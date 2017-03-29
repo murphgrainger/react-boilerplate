@@ -1,2 +1,2 @@
-# react-practice
+# React Practice
 Initial React Boilerplate + Redux
