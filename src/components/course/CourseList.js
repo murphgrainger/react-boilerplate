@@ -6,7 +6,7 @@ const CourseList = ({courses}) => {
     <table className="table">
       <thead>
         <tr>
-          <th>&nbs p;</th>
+          <th>&nbsp;</th>
           <th>Title</th>
           <th>Author</th>
           <th>Category</th>
