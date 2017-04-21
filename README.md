@@ -1,10 +1,10 @@
-# React Boilerplate + Redux
+# React + Redux Boilerplate
 
 ### Includes:
 * Reducers, Components, Thunks, Mock API
 
 * Development and Production Scripts
-* Outline for Mocha
+* Mocha Initial Setup
 * Babel
 
 Created with Cory House Pluralsight React Tutorial
